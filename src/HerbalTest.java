@@ -30,7 +30,7 @@ public class HerbalTest {
         herbal.dodaj(new Czerwona("truskawka", 5));
         //herbal.dodaj(new Niebieska("wanilia", 3));
         herbal.dodaj(new Czarna("kiwi", 3));
-
+//bisviy
         // Lista zakupów Herbala
         ListaZakupow listaHerbala = herbal.pobierzListeZakupow();
 
